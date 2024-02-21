@@ -3,7 +3,7 @@
 ?
 
 
-## [Ознакомьтесь с проектом на GitHub] ?
+## [Ознакомьтесь с проектом на GitHub] (https://github.com/EEfimov1704/first-project/blob/main/index.html)
 
 ## Описание
 
