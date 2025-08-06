@@ -1,6 +1,4 @@
-#"Как учиться" одностраничный студенческий проект для [Яндекс.Практикум](https://practicum.com)
-
-?
+## "Как учиться" одностраничный студенческий проект для [Яндекс.Практикум](https://practicum.com)?
 
 
 ## [Ознакомьтесь с проектом на GitHub] (https://github.com/EEfimov1704/first-project/blob/main/index.html)
